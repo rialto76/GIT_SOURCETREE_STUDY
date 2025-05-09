@@ -9,3 +9,5 @@ local_1 remote_4
 
 
 test
+
+깃허브 push가 차단되는지 테스트합니다!!
